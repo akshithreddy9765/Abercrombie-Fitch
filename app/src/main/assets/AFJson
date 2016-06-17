@@ -1,0 +1,25 @@
+{
+  "promotions": [
+    {
+      "button": {
+        "target": "https://m.abercrombie.com",
+        "title": "Shop Now"
+      },
+      "description": "GET READY FOR SUMMER DAYS",
+      "footer": "In stores & online. Exclusions apply. <a href=\"https://www.abercrombie.com/anf/media/legalText/viewDetailsText20150618_Shorts25_US.html\" class=\"legal promo-details\">See details</a>",
+      "image": "http://anf.scene7.com/is/image/anf/anf-US-20150629-app-women-shorts",
+      "title": "Shorts Starting at $25"
+    },
+    {
+      "button": [
+        {
+          "target": "https://m.hollisterco.com",
+          "title": "Shop Now"
+        }
+      ],
+      "description": "Our Favorite Brands",
+      "image": "http://anf.scene7.com/is/image/anf/anf-US-20150629-app-women-brands",
+      "title": "Dolce Vita"
+    }
+  ]
+}
