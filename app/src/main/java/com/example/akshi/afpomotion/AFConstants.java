@@ -6,6 +6,7 @@ package com.example.akshi.afpomotion;
 public class AFConstants {
 
     //these are the constants for this application
+    //
 
     public static final String AF_URL = "https://www.abercrombie.com/anf/nativeapp/Feeds/promotions.json";
     public static final String ON_LINE = "on_line";
